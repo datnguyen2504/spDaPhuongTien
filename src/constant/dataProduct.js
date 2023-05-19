@@ -264,7 +264,7 @@ const slideT = [
 
 export const products = [
     {
-        time: '08:00-22:00',
+        time: '24/24h',
         image: yes,
         name: 'Yes Cafe',
         description: 'Với không gian siêu rộng cùng nhiều khu vực được thiết kế cho những sở thích khác nhau. Nếu bạn ước muốn tìm một góc tĩnh lặng bên dãy cây xanh, hay một bàn lớn cho buổi họp nhóm, thậm chí là không gian ngoài trời dưới tán cây cổ thụ thì… quán cafe Làng Đại Học YES Cafe có hết. Quán có mở xuyên đêm',
@@ -318,7 +318,7 @@ export const products = [
         slide: slideD
     },
     {
-        time: '08:00-22:00',
+        time: '24/24h',
         image: feel,
         name: 'FEEL Coffee & Tea Express',
         description: 'Không gian rộng rãi, mát mẻ. Bàn ghế sạch sẽ. Phù hợp học bài hoặc làm việc. Máy lạnh nhiệt độ vừa phải. Cà phê ngon, đậm đà. nhà vệ sinh rất sạch và bảo vệ rất quan tâm đến xe của khách. Nhân viên thân thiện, gần gũi, chu đáo.',

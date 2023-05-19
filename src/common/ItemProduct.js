@@ -35,7 +35,7 @@ const ItemProduct = ({ dataProduct }) => {
             </Link>
 
             <div >
-                <p> "{dataProduct.name}</p>
+                <p>{dataProduct.name}</p>
             </div>
 
             <Link to={"/Detail"}>
